@@ -1,2 +1,0 @@
--- Ello whoever reads this the "LavaFolder" needs a script that effects
--- all parts in the folder that makes you take small amounts of damage (It's lava)
