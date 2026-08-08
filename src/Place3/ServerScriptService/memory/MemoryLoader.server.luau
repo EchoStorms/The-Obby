@@ -1,0 +1,7 @@
+local memory = require(script.Parent)
+game.Players.PlayerAdded:Connect(function(plr)
+	memory:joined(plr)
+end)
+game.Players.PlayerRemoving:Connect(function(plr)
+	memory:left(plr)
+end)
